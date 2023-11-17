@@ -9,3 +9,5 @@ In this repository, I shared a step-by-step process to do sentiment analysis.
 First, I used Tweepy, an open source Python library to get tweets mentioning @NotionHQ using the Twitter API. Then I used the Inference API for doing sentiment analysis. Once I got the sentiment analysis results, I created a chart to visualize the results and detect some interesting insights.
 
 ![Pie chart](images/pie%20chart.png)
+
+Acknowledgement: [Tutorial Followed](https://huggingface.co/blog/sentiment-analysis-twitter)
